@@ -12,6 +12,7 @@ This is
 for the 21st Century
 * [Github] (https://github.com) - Github
 * [Bootstrap 3.3.7] (http://blog.getbootstrap.com/) - Github
+* [Font Awesome 4.6.3 by @davegandy] (http://fontawesome.io)
 
 
 ## Project Setup
