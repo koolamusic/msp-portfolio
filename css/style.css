@@ -19,6 +19,8 @@ body {
   background-position: center;
   position: inherit;
   text-align: center;
+  height: 100%;
+  width: 100%;
 }
 
 /** Some Hero Variation with my image
