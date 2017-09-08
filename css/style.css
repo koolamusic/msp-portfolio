@@ -84,13 +84,34 @@ margin: 0 0;
   text-align: center;
   background: #ffe500;
   padding:150px 20px;
-
 }
 
 .mint {
   background: #fff;
   padding: 20px 20px;
-  border: 1px solid #eee;
+  border: 1px solid #fcfad9;
+}
 
+.panel-default > .panel-heading {
+    color: #fff;
+    background-color: #ca66a2;
+    border-color: #66005e;
+}
 
+.panel-default {
+    border-color: #66005e;
+    border-radius: 0px;
+}
+
+.panel {
+  border-radius:0px;
+  box-shadow: 0 1px 10px rgba(83, 42, 86, 0.28);
+}
+.panel-heading {
+  border-radius: 0px;
+}
+
+.ab-icon {
+text-align: center;
+padding: 150px 50px 50px 50px;
 }
