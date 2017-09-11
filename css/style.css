@@ -7,20 +7,24 @@ body {
   font-family: 'Itim', sans-serif;
   margin: 10px 10px;
   padding: 0 0;
+  background-color: #fdfdfd;
 }
+
+
 
 .hero{
   min-height: 700px;
   padding-top: 4.5rem;
-  background: url('../img/bg.png');
+  background: url('../img/me.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
-  background-position: center;
+  background-position: top;
   position: inherit;
   text-align: center;
   height: 100%;
   width: 100%;
+  color:#fff;
 }
 
 @media screen and (max-width:500px) {
@@ -70,7 +74,7 @@ body {
 
 .navbar-fixed-bottom, .navbar-fixed-top, .navbar-static-top{
 border-radius: 0;
-background: #333;
+background: #262626;
 border-bottom: 1px solid #4e4b4b;
 padding: 2px 1px;
 margin: 0 0;
@@ -88,6 +92,7 @@ margin: 0 0;
 .pre-heading {
   margin-top:140px;
   text-align: center;
+
 }
 
 .pre-heading p {
@@ -108,12 +113,12 @@ margin: 0 0;
 
 .panel-default > .panel-heading {
     color: #fff;
-    background-color: #ca66a2;
-    border-color: #66005e;
+    background-color: #262626;
+    border-color: #333;
 }
 
 .panel-default {
-    border-color: #66005e;
+    border-color: #333;
     border-radius: 0px;
 }
 
@@ -127,5 +132,5 @@ margin: 0 0;
 
 .ab-icon {
 text-align: center;
-padding: 150px 50px 50px 50px;
+padding: 0 0;
 }
