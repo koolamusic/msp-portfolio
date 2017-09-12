@@ -1,5 +1,5 @@
-# A Bootstrap Portfolio
-A Moringa School Friday Test Project
+# My Personal Website
+A Moringa School Friday Test Project based on Bootstrap CSS
 
 ## Author
 Andrew Miracle
